@@ -1,6 +1,9 @@
 # HelloMVP
 MVP+RxJava+Retrofit
-BaseActivity
+
+# 笔记
+
+# BaseActivity
 
 //布局中Fragment的ID
     protected abstract int getFragmentContentId();
@@ -50,7 +53,7 @@ BaseActivity
     }
     
     
-    BaseFragment
+  #  BaseFragment
     
     
      protected abstract P onCreatePresenter();

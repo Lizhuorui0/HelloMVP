@@ -52,8 +52,7 @@ MVP+RxJava+Retrofit
 
     }
     
-    
-  #  BaseFragment
+# BaseFragment
     
     
      protected abstract P onCreatePresenter();
